@@ -1,0 +1,10 @@
+{
+  "syndicatedLoanArrangementInstanceReference" : "SLAIR793221",
+  "syndicatedLoanArrangementParameterType" : "syndicatedLoanArrangementParameterType",
+  "syndicatedLoanArrangementSelectedOption" : "syndicatedLoanArrangementSelectedOption",
+  "syndicatedLoanArrangementSchedule" : "syndicatedLoanArrangementSchedule",
+  "syndicatedLoanArrangementInitiateActionReference" : "SLAIAR791960",
+  "syndicatedLoanArrangementInstanceStatus" : "syndicatedLoanArrangementInstanceStatus",
+  "syndicatedLoanArrangementStatus" : "syndicatedLoanArrangementStatus",
+  "syndicatedLoanArrangementInitiateActionRecord" : {}
+}

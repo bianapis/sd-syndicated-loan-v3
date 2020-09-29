@@ -1,0 +1,25 @@
+{
+  "syndicateAssemblyRetrieveActionTaskRecord" : {},
+  "syndicateAssemblyPreconditions" : "syndicateAssemblyPreconditions",
+  "syndicateAssemblyPostconditions" : "syndicateAssemblyPostconditions",
+  "syndicateAssemblyFeatureSchedule" : "syndicateAssemblyFeatureSchedule",
+  "syndicateAssemblySyndicatedLoanOrganizationServiceType" : "syndicateAssemblySyndicatedLoanOrganizationServiceType",
+  "syndicatedLoanOrganization" : "syndicatedLoanOrganization",
+  "syndicateAssemblySyndicatedLoanOrganizationServiceInputsandOuputs" : "syndicateAssemblySyndicatedLoanOrganizationServiceInputsandOuputs",
+  "syndicateAssemblyInstanceAnalysis" : {
+    "syndicateAssemblyInstanceAnalysisReportType" : "syndicateAssemblyInstanceAnalysisReportType",
+    "syndicateAssemblyInstanceAnalysisParameters" : "syndicateAssemblyInstanceAnalysisParameters",
+    "syndicateAssemblyInstanceAnalysisReport" : {},
+    "syndicateAssemblyInstanceAnalysisRecord" : {}
+  },
+  "syndicateAssemblySyndicatedLoanOrganizationServiceDescription" : "syndicateAssemblySyndicatedLoanOrganizationServiceDescription",
+  "syndicateAssemblyRetrieveActionTaskReference" : "SARATR712130",
+  "syndicateAssemblySyndicatedLoanOrganizationServiceWorkProduct" : "syndicateAssemblySyndicatedLoanOrganizationServiceWorkProduct",
+  "syndicateAssemblyRetrieveActionResponse" : "syndicateAssemblyRetrieveActionResponse",
+  "syndicateAssemblyInstanceReport" : {
+    "syndicateAssemblyInstanceReportType" : "syndicateAssemblyInstanceReportType",
+    "syndicateAssemblyInstanceReportRecord" : {},
+    "syndicateAssemblyInstanceReportParameters" : "syndicateAssemblyInstanceReportParameters",
+    "syndicateAssemblyInstanceReport" : {}
+  }
+}

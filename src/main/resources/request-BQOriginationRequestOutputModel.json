@@ -1,0 +1,15 @@
+{
+  "originationPreconditions" : "originationPreconditions",
+  "originationSyndicatedLoanOriginationServiceWorkProduct" : "originationSyndicatedLoanOriginationServiceWorkProduct",
+  "originationSyndicatedLoanOriginationServiceType" : "originationSyndicatedLoanOriginationServiceType",
+  "originationFeatureSchedule" : "originationFeatureSchedule",
+  "originationSyndicatedLoanOriginationServiceName" : "originationSyndicatedLoanOriginationServiceName",
+  "originationSyndicatedLoanOriginationServiceDescription" : "originationSyndicatedLoanOriginationServiceDescription",
+  "requestResponseRecord" : {},
+  "syndicatedLoanOrigination" : "syndicatedLoanOrigination",
+  "originationRequestRecordReference" : "ORRR775026",
+  "originationRequestActionTaskReference" : "ORATR783213",
+  "originationRequestActionTaskRecord" : {},
+  "originationPostconditions" : "originationPostconditions",
+  "originationSyndicatedLoanOriginationServiceInputsandOuputs" : "originationSyndicatedLoanOriginationServiceInputsandOuputs"
+}

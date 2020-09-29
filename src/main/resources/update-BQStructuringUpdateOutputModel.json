@@ -1,0 +1,14 @@
+{
+  "syndicatedLoanArrangement" : "syndicatedLoanArrangement",
+  "structuringSyndicatedLoanArrangementServiceDescription" : "structuringSyndicatedLoanArrangementServiceDescription",
+  "structuringFeatureSchedule" : "structuringFeatureSchedule",
+  "structuringSyndicatedLoanArrangementServiceName" : "structuringSyndicatedLoanArrangementServiceName",
+  "structuringPostconditions" : "structuringPostconditions",
+  "structuringUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "structuringSyndicatedLoanArrangementServiceInputsandOuputs" : "structuringSyndicatedLoanArrangementServiceInputsandOuputs",
+  "structuringUpdateActionTaskReference" : "SUATR794141",
+  "structuringPreconditions" : "structuringPreconditions",
+  "structuringSyndicatedLoanArrangementServiceWorkProduct" : "structuringSyndicatedLoanArrangementServiceWorkProduct",
+  "structuringSyndicatedLoanArrangementServiceType" : "structuringSyndicatedLoanArrangementServiceType"
+}

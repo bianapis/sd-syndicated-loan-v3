@@ -1,0 +1,21 @@
+{
+  "syndicatedLoanConfigurationActionTaskReference" : "SCATR765419",
+  "syndicatedLoanConfigurationActionTaskRecord" : {},
+  "syndicatedLoanServiceConfigurationRecord" : {
+    "syndicatedLoanServiceConfigurationSettingDescription" : "syndicatedLoanServiceConfigurationSettingDescription",
+    "syndicatedLoanServiceSubscription" : {
+      "syndicatedLoanServiceSubscriberReference" : "756221",
+      "syndicatedLoanServiceSubscriberAccessProfile" : "syndicatedLoanServiceSubscriberAccessProfile"
+    },
+    "syndicatedLoanServiceStatus" : "syndicatedLoanServiceStatus",
+    "syndicatedLoanServiceAgreement" : {
+      "syndicatedLoanServiceUserReference" : "733696",
+      "syndicatedLoanServiceAgreementTermsandConditions" : "syndicatedLoanServiceAgreementTermsandConditions",
+      "syndicatedLoanServiceAgreementReference" : "721156"
+    },
+    "syndicatedLoanServiceConfigurationSetup" : {
+      "syndicatedLoanServiceConfigurationParameter" : "syndicatedLoanServiceConfigurationParameter"
+    }
+  },
+  "syndicatedLoanServicingSessionStatus" : "syndicatedLoanServicingSessionStatus"
+}

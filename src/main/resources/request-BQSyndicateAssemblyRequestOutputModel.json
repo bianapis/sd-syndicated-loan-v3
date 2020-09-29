@@ -1,0 +1,14 @@
+{
+  "syndicateAssemblySyndicatedLoanOrganizationServiceInputsandOuputs" : "syndicateAssemblySyndicatedLoanOrganizationServiceInputsandOuputs",
+  "syndicateAssemblySyndicatedLoanOrganizationServiceDescription" : "syndicateAssemblySyndicatedLoanOrganizationServiceDescription",
+  "syndicateAssemblyRequestActionTaskReference" : "SARATR720261",
+  "syndicateAssemblyRequestActionTaskRecord" : {},
+  "syndicateAssemblyRequestRecordReference" : "SARRR708364",
+  "syndicateAssemblyPreconditions" : "syndicateAssemblyPreconditions",
+  "syndicateAssemblyPostconditions" : "syndicateAssemblyPostconditions",
+  "syndicateAssemblySyndicatedLoanOrganizationServiceWorkProduct" : "syndicateAssemblySyndicatedLoanOrganizationServiceWorkProduct",
+  "syndicateAssemblyFeatureSchedule" : "syndicateAssemblyFeatureSchedule",
+  "syndicateAssemblySyndicatedLoanOrganizationServiceType" : "syndicateAssemblySyndicatedLoanOrganizationServiceType",
+  "syndicatedLoanOrganization" : "syndicatedLoanOrganization",
+  "requestResponseRecord" : {}
+}

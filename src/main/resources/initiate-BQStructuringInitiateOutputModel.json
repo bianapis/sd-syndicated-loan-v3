@@ -1,0 +1,15 @@
+{
+  "structuringSyndicatedLoanArrangementServiceDescription" : "structuringSyndicatedLoanArrangementServiceDescription",
+  "structuringFeatureSchedule" : "structuringFeatureSchedule",
+  "structuringPreconditions" : "structuringPreconditions",
+  "structuringInitiateActionReference" : "SIAR784191",
+  "syndicatedLoanArrangement" : "syndicatedLoanArrangement",
+  "structuringInstanceReference" : "SIR748371",
+  "structuringSyndicatedLoanArrangementServiceName" : "structuringSyndicatedLoanArrangementServiceName",
+  "structuringInstanceStatus" : "structuringInstanceStatus",
+  "structuringPostconditions" : "structuringPostconditions",
+  "structuringSyndicatedLoanArrangementServiceInputsandOuputs" : "structuringSyndicatedLoanArrangementServiceInputsandOuputs",
+  "structuringSyndicatedLoanArrangementServiceWorkProduct" : "structuringSyndicatedLoanArrangementServiceWorkProduct",
+  "structuringSyndicatedLoanArrangementServiceType" : "structuringSyndicatedLoanArrangementServiceType",
+  "structuringInitiateActionRecord" : {}
+}

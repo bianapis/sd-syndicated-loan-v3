@@ -1,0 +1,39 @@
+{
+  "syndicatedLoanRetrieveActionTaskRecord" : {},
+  "syndicatedLoanRetrieveActionResponse" : "syndicatedLoanRetrieveActionResponse",
+  "syndicatedLoanRetrieveActionTaskReference" : "SRATR795161",
+  "syndicatedLoanRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "syndicatedLoanPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "syndicatedLoanActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "syndicatedLoanOfferedService" : {
+    "syndicatedLoanServiceReference" : "776158",
+    "syndicatedLoanServiceRecord" : {
+      "syndicatedLoanServiceVersion" : "syndicatedLoanServiceVersion",
+      "syndicatedLoanServiceDescription" : "syndicatedLoanServiceDescription",
+      "syndicatedLoanServiceSchedule" : "syndicatedLoanServiceSchedule",
+      "syndicatedLoanServiceType" : "syndicatedLoanServiceType",
+      "syndicatedLoanServicePoliciesandGuidelines" : {
+        "syndicatedLoanServiceIntendedUses" : "syndicatedLoanServiceIntendedUses",
+        "syndicatedLoanServiceEligibility" : "syndicatedLoanServiceEligibility",
+        "syndicatedLoanServicePricingandTerms" : "syndicatedLoanServicePricingandTerms"
+      }
+    }
+  }
+}

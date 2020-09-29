@@ -1,0 +1,10 @@
+{
+  "syndicatedLoanArrangementExecuteActionTaskReference" : "SLAEATR769456",
+  "executeRecordReference" : "ERR707373",
+  "executeResponseRecord" : {},
+  "syndicatedLoanArrangementParameterType" : "syndicatedLoanArrangementParameterType",
+  "syndicatedLoanArrangementSelectedOption" : "syndicatedLoanArrangementSelectedOption",
+  "syndicatedLoanArrangementSchedule" : "syndicatedLoanArrangementSchedule",
+  "syndicatedLoanArrangementExecuteActionTaskRecord" : {},
+  "syndicatedLoanArrangementStatus" : "syndicatedLoanArrangementStatus"
+}

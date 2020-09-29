@@ -1,0 +1,26 @@
+{
+  "structuringSyndicatedLoanArrangementServiceDescription" : "structuringSyndicatedLoanArrangementServiceDescription",
+  "structuringFeatureSchedule" : "structuringFeatureSchedule",
+  "structuringInstanceReport" : {
+    "structuringInstanceReportParameters" : "structuringInstanceReportParameters",
+    "structuringInstanceReportType" : "structuringInstanceReportType",
+    "structuringInstanceReport" : {},
+    "structuringInstanceReportRecord" : {}
+  },
+  "structuringPreconditions" : "structuringPreconditions",
+  "structuringRetrieveActionTaskRecord" : {},
+  "structuringInstanceAnalysis" : {
+    "structuringInstanceAnalysisReportType" : "structuringInstanceAnalysisReportType",
+    "structuringInstanceAnalysisReport" : {},
+    "structuringInstanceAnalysisRecord" : {},
+    "structuringInstanceAnalysisParameters" : "structuringInstanceAnalysisParameters"
+  },
+  "syndicatedLoanArrangement" : "syndicatedLoanArrangement",
+  "structuringSyndicatedLoanArrangementServiceName" : "structuringSyndicatedLoanArrangementServiceName",
+  "structuringRetrieveActionTaskReference" : "SRATR712602",
+  "structuringPostconditions" : "structuringPostconditions",
+  "structuringSyndicatedLoanArrangementServiceInputsandOuputs" : "structuringSyndicatedLoanArrangementServiceInputsandOuputs",
+  "structuringSyndicatedLoanArrangementServiceWorkProduct" : "structuringSyndicatedLoanArrangementServiceWorkProduct",
+  "structuringSyndicatedLoanArrangementServiceType" : "structuringSyndicatedLoanArrangementServiceType",
+  "structuringRetrieveActionResponse" : "structuringRetrieveActionResponse"
+}

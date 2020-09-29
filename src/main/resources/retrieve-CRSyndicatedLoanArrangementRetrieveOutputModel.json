@@ -1,0 +1,28 @@
+{
+  "syndicatedLoanArrangementRetrieveActionTaskRecord" : {},
+  "syndicatedLoanArrangementBookingLocation" : "syndicatedLoanArrangementBookingLocation",
+  "syndicatedLoanArrangementAccountReference" : "SLAAR719902",
+  "syndicatedLoanArrangementRegulationReference" : "SLARR796623",
+  "syndicatedLoanArrangementAccountType" : "syndicatedLoanArrangementAccountType",
+  "syndicatedLoanArrangementSchedule" : "syndicatedLoanArrangementSchedule",
+  "syndicatedLoanArrangementCurrency" : "USD",
+  "syndicatedLoanArrangementRetrieveActionResponse" : "syndicatedLoanArrangementRetrieveActionResponse",
+  "syndicatedLoanArrangementJurisdiction" : "syndicatedLoanArrangementJurisdiction",
+  "syndicatedLoanArrangementInstanceReportRecord" : {
+    "syndicatedLoanArrangementInstanceReportType" : "syndicatedLoanArrangementInstanceReportType",
+    "syndicatedLoanArrangementInstanceReport" : {},
+    "syndicatedLoanArrangementInstanceReportData" : "syndicatedLoanArrangementInstanceReportData"
+  },
+  "syndicatedLoanArrangementReference" : "SLAR725096",
+  "syndicatedLoanArrangementRegulationType" : "syndicatedLoanArrangementRegulationType",
+  "syndicatedLoanArrangementParameterType" : "syndicatedLoanArrangementParameterType",
+  "syndicatedLoanArrangementSelectedOption" : "syndicatedLoanArrangementSelectedOption",
+  "syndicatedLoanArrangementInstanceAnalysis" : {
+    "syndicatedLoanArrangementInstanceAnalysisReportType" : "syndicatedLoanArrangementInstanceAnalysisReportType",
+    "syndicatedLoanArrangementInstanceAnalysisData" : "syndicatedLoanArrangementInstanceAnalysisData",
+    "syndicatedLoanArrangementInstanceAnalysisReport" : {}
+  },
+  "syndicatedLoanArrangementType" : "syndicatedLoanArrangementType",
+  "syndicatedLoanArrangementStatus" : "syndicatedLoanArrangementStatus",
+  "syndicatedLoanArrangementRetrieveActionTaskReference" : "SLARATR732527"
+}

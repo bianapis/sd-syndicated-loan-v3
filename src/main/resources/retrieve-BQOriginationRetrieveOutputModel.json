@@ -1,0 +1,26 @@
+{
+  "originationPreconditions" : "originationPreconditions",
+  "originationSyndicatedLoanOriginationServiceWorkProduct" : "originationSyndicatedLoanOriginationServiceWorkProduct",
+  "originationInstanceReport" : {
+    "originationInstanceReport" : {},
+    "originationInstanceReportType" : "originationInstanceReportType",
+    "originationInstanceReportParameters" : "originationInstanceReportParameters",
+    "originationInstanceReportRecord" : {}
+  },
+  "originationSyndicatedLoanOriginationServiceType" : "originationSyndicatedLoanOriginationServiceType",
+  "originationFeatureSchedule" : "originationFeatureSchedule",
+  "originationSyndicatedLoanOriginationServiceName" : "originationSyndicatedLoanOriginationServiceName",
+  "originationSyndicatedLoanOriginationServiceDescription" : "originationSyndicatedLoanOriginationServiceDescription",
+  "originationRetrieveActionTaskReference" : "ORATR741142",
+  "originationRetrieveActionResponse" : "originationRetrieveActionResponse",
+  "syndicatedLoanOrigination" : "syndicatedLoanOrigination",
+  "originationRetrieveActionTaskRecord" : {},
+  "originationPostconditions" : "originationPostconditions",
+  "originationInstanceAnalysis" : {
+    "originationInstanceAnalysisParameters" : "originationInstanceAnalysisParameters",
+    "originationInstanceAnalysisReport" : {},
+    "originationInstanceAnalysisRecord" : {},
+    "originationInstanceAnalysisReportType" : "originationInstanceAnalysisReportType"
+  },
+  "originationSyndicatedLoanOriginationServiceInputsandOuputs" : "originationSyndicatedLoanOriginationServiceInputsandOuputs"
+}
